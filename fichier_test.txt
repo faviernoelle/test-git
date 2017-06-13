@@ -1,2 +1,0 @@
-test branche sur git
-* voir l'effet sur GitHub
